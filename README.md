@@ -1,56 +1,70 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">Python • Web Development • Data Handling Enthusiast</h3>
+<h3 align="center">Python • Web Development • Data Management</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Python+Logic+Builder;Responsive+Web+UI+Developer;MySQL+%7C+PostgreSQL;Focused+on+Clean+Code+%26+Accuracy;M.Sc.+Computer+Science+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FF0000&center=true&vCenter=true&width=750&lines=Python+Programmer;Clean+Responsive+Web+UI+Developer;MySQL+%7C+PostgreSQL+%7C+Data+Handling;Excel+%26+Google+Sheets+Workflows;M.Sc.+Computer+Science+Student" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 M.Sc. Computer Science (Pursuing)  
-🎓 BCA Graduate – IG Govt PG College, Tohana  
+Detail-oriented Computer Science student focused on **Python programming**, **structured web design**, and **accurate data handling**.  
+I prefer **clarity, discipline, and well-organized work** in every project.
 
-I like building **structured web interfaces**, solving problems using **Python logic**, and maintaining **accuracy in data and documentation**.
-
-I believe in **discipline, clarity, and clean work** rather than hype.
+🎓 M.Sc. Computer Science – Pursuing  
+🎓 BCA – IG Govt PG College, Tohana (2022–2025)
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Technical Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,postgres,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,postgres,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MS%20Excel-Data%20Handling-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-Data%20Organizing-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20Word-Documentation-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-Presentations-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
 
 ---
 
 ## 📌 Projects
 
-🔹 **Service Hiring System** – HTML, CSS, JavaScript  
-Structured booking system with interactive forms and clean UI.
+### 🔹 Service Hiring System
+Web-based booking platform for local service providers.  
+**Tech:** HTML, CSS, JavaScript  
+- Structured UI
+- Interactive forms
+- Workflow-based task handling
 
-🔹 **Weather Application** – JavaScript + API  
-Live weather data with proper error handling and responsive layout.
+### 🔹 Weather Application
+Real-time weather app using public API.  
+**Tech:** HTML, CSS, JavaScript  
+- Live temperature, humidity, conditions
+- Proper error handling and responsive layout
 
 ---
 
-## 🎯 What I Focus On
+## 🎯 Core Strengths
 
-- Clean & Responsive UI
-- Python logic building
-- Database queries (MySQL/PostgreSQL)
-- Data handling with Excel & Sheets
-- Well-formatted documentation
+- Python logic building & scripting
+- Clean and responsive web page structure
+- MySQL & PostgreSQL queries (CRUD)
+- Accurate data handling using Excel & Sheets
+- Well-formatted documentation & reports
+- Detail-oriented and quality-focused work style
 
 ---
 
 ## 📫 Contact
 
 📧 kumaraman3354@gmail.com  
-📱 9518176615  
-📍 Haryana, India
+📱 +91 9518176615  
+📍 Hisar / Tohana, Haryana, India
 
 ---
 
