@@ -77,9 +77,5 @@ Real-time weather app using public API.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmanSain07&label=Profile%20Views&color=red&style=flat" />
 </p>
-<p align="center">
-  <a href="https://linkedin.com/in/aman-sain" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+
 
