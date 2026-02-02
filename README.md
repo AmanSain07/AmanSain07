@@ -66,10 +66,11 @@ Real-time weather app using public API.
 📱 +91 9518176615  
 📍 Hisar / Tohana, Haryana, India
 <p align="center">
-  <a href="https://linkedin.com/in/aman-sain" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-sain-b5329224b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aman%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
